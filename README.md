@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">📫Vamos nos conectar? Me envie um e-mail, siga no LinkedIn</p>
+📫 Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn.
 
 ###
 
