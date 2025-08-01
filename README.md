@@ -18,10 +18,11 @@
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusDeivity/MatheusDeivity/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusDeivity/MatheusDeivity/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico de contribuições estilo Pacman" src="https://raw.githubusercontent.com/MatheusDeivity/MatheusDeivity/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
