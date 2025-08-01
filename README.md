@@ -2,15 +2,20 @@
 
 ###
 
-<p align="left">Desenvolvedor formado, apaixonado por tecnologia e por criar soluções que funcionam de verdade. <br><br>  Tenho focado meus estudos em <strong>Java</strong>, com o objetivo de transformar cada conhecimento em projetos práticos e úteis no meu caminho como desenvolvedor.</p>
+<p align="left">Desenvolvedor formado, apaixonado por tecnologia e por criar soluções que funcionam de verdade. <br>  Tenho focado meus estudos em <strong>Java</strong>, com o objetivo de transformar cada conhecimento em projetos práticos e úteis no meu caminho como desenvolvedor.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">🎓 Recém-formado em Análise e Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia e aprendizado contínuo<br>🚀 Em busca da oportunidade primeira na área de desenvolvimento <br>📚 Estudando Java, Spring Boot, Docker, MySQL e Git <br>🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+<p align="left"> 
+- 🎓 Recém-formado em Análise e Desenvolvimento de Sistemas<br>
+- 💻 Apaixonado por tecnologia e aprendizado contínuo<br>
+- 🚀 Em busca da oportunidade primeira na área de desenvolvimento <br>
+- 📚 Estudando Java, Spring Boot, Docker, MySQL e Git <br>
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
 
 ###
 
