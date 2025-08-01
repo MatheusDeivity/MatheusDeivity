@@ -16,8 +16,13 @@
 - 🚀 Em busca da oportunidade primeira na área de desenvolvimento <br>
 - 📚 Estudando Java, Spring Boot, Docker, MySQL e Git <br>
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
----
-<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <h2 align="left">💻Tecnologias e linguagens</h2>
