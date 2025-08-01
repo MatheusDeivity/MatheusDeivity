@@ -24,6 +24,7 @@
 </picture>
 
 
+
 ###
 
 <h2 align="left">💻Tecnologias e linguagens</h2>
