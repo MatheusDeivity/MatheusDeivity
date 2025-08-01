@@ -16,7 +16,8 @@
 - 🚀 Em busca da oportunidade primeira na área de desenvolvimento <br>
 - 📚 Estudando Java, Spring Boot, Docker, MySQL e Git <br>
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
-
+---
+<br>
 ###
 
 <h2 align="left">💻Tecnologias e linguagens</h2>
