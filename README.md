@@ -14,8 +14,8 @@
 - 🎓 Recém-formado em Análise e Desenvolvimento de Sistemas<br>
 - 🎓 Atualmente cursando o 2º semestre de engenharia de software<br>
 - 💻 Apaixonado por tecnologia e aprendizado contínuo<br>
-- 🚀 Em busca da oportunidade primeira na área de desenvolvimento <br>
-- 📚 Estudando Java, Spring Boot, Docker, MySQL e Git <br>
+- 🚀 Em busca da primeira oportunidade na área de desenvolvimento <br>
+- 📚 Estudando Java, C#, .NET, Spring Boot, Docker, MySQL, SQL e Git<br>
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
 
 <picture>
